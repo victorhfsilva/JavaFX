@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JavaFXCheckBox.jnlp">
+  <information>
+    <title>JavaFXCheckBox</title>
+    <vendor>Victor</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="JavaFXCheckBox.jar" size="3020" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="javafxcheckbox.JavaFXCheckBox"  name="JavaFXCheckBox" />
+  <update check="always"/>
+</jnlp>

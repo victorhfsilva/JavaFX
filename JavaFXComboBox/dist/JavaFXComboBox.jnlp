@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JavaFXComboBox.jnlp">
+  <information>
+    <title>JavaFXComboBox</title>
+    <vendor>Victor</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="JavaFXComboBox.jar" size="5263" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="javafxcombobox.MainComboBox"  name="JavaFXComboBox" />
+  <update check="always"/>
+</jnlp>
